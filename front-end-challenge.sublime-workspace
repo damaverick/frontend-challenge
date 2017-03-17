@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"dis",
+				"display-flex"
+			],
+			[
+				"trN",
+				"transform-origin"
+			],
+			[
+				"prima",
+				"primary-color"
+			],
+			[
+				"footer",
+				"footer-menu"
+			],
+			[
+				"bod",
+				"body-copy"
+			],
+			[
+				"rewind",
+				"rewind_posts"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"primary",
+				"primary-font"
+			],
+			[
+				"sec",
+				"secondary-color"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"primar",
+				"primary-font"
+			],
+			[
+				"edit_pos",
+				"edit_post_link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/components/layout/_header.scss",
+			"settings":
+			{
+				"buffer_size": 795,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/layout/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/modules/pages/_home.scss",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/base/_normalize.scss",
+			"settings":
+			{
+				"buffer_size": 7505,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 21676,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo.html",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/index.html",
+			"settings":
+			{
+				"buffer_size": 6433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/modules/widget/widget.scss",
+			"settings":
+			{
+				"buffer_size": 519,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/init/_colors.scss",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/base/text/_text.scss",
+			"settings":
+			{
+				"buffer_size": 2533,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/layout/skeleton.scss",
+			"settings":
+			{
+				"buffer_size": 9952,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/kss-assets/kss.js",
+			"settings":
+			{
+				"buffer_size": 1831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Desktop/XDIG/frontend-challenge-master/src/components/component-library/_demo.scss",
+			"settings":
+			{
+				"buffer_size": 1387,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "packagae",
+		"selected_items":
+		[
+			[
+				"packagae",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git push",
+				"Git: Push Tags"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git remote",
+				"Git: Track Remote Branch"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"lp",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/dist"
+	],
+	"file_history":
+	[
+		"/C/Users/Chris/Desktop/XDIG/frontend-challenge-master/src/components/component-library/demo.twig",
+		"/C/Users/Chris/Desktop/XDIG/frontend-challenge-master/src/components/component-library/demo.html",
+		"/C/Users/Chris/Desktop/XDIG/frontend-challenge-master/src/components/component-library/_demo.scss",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/dist/section-7.html",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/src/components/modules/button/_button.scss",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/dist/item-7.html",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/src/components/base/text/_text.scss",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/src/components/init/_colors.scss",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/src/components/modules/widget/widget.scss",
+		"/C/Users/Chris/Dropbox/CHRIS_WORK/PREVIOUS_NEXT/frontend-challenge-master/dist/section-6.html",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_header.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_course-detail-old.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_course-detail.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_globals.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_icons.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_modules.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/about.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/header.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/footer.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/connect.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/js/functions.js",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/inspire-master-class.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/css/style.css",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/sftp-config.json",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/functions.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/fees.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_fees.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/home.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/woocommerce/checkout/form-checkout.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/.gitignore",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/inspire.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_forms.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/style.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/affiliate-area.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/page.php",
+		"/C/Users/Chris/Desktop/index.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/brochure-download-success.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/curl.php",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_menu.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_connect.scss",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/js/plugins.js",
+		"/C/Users/Chris/Dropbox/Apps/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/academy-tv.php",
+		"/C/Users/Chris/Desktop/wp-config.php",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/css/style.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_modules.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_woocommerce.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/js/functions.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_icons.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-config.php",
+		"/C/Users/Chris/Desktop/affiliate-test.html",
+		"/C/wamp/www/wpa-2016/wp-content/plugins/woocommerce-gateway-stripe/.gitignore",
+		"/C/Users/Chris/Desktop/bootstrap.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/affiliate-registration.php",
+		"/C/wamp/www/arabian-emirates-wp/sftp-config.json",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/config.rb",
+		"/C/Users/Chris/Desktop/functions.php",
+		"/C/Users/Chris/Desktop/grunticon/icons.data.svg.css",
+		"/C/Users/Chris/Desktop/grunticon/icons.fallback.css",
+		"/C/Users/Chris/Desktop/grunticon/icons.data.png.css",
+		"/C/Users/Chris/Desktop/bootstrap.min.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/functions.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/footer.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/header.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_header.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_variables.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/course-single.php",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/css/icon-sprites.sublime-snippet",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/Gruntfile.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/advanced-diploma-in-special-event-planning-and-design.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/certificate-in-event-design.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/certificate-in-event-planning.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/certificate-in-wedding-planning.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/diploma-in-venue-coordination.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/diploma-in-wedding-and-event-planning.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/inc/fees/diploma-in-wedding-planning-styling-and-design.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/woocommerce/checkout/form-checkout.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/page.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/css/responsive.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/style-manual-removal.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/style-original.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/style.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_globals.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/style.scss",
+		"/C/wamp/www/arabian-emirates-wp/.htaccess",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_bootstrap.scss",
+		"/C/Users/Chris/Desktop/bootstrap.min.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sftp-config.json",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/css/bootstrap.css",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/academy-tv.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/js/functions.bak.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/js/plugins.min.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_course-detail.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_connect.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_home.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_buttons.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/js/plugins-bak.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_forms.scss",
+		"/C/Users/Chris/Desktop/flexibility.js",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/single-podcast.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/fees.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/educate.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/inspire.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/connect.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/learn.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_course-detail-old.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/checkout/form-checkout.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/single-student-of-the-month.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/podcasts.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/student-of-the-month.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/courses.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/styled-shoot.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/about.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_course-listing.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/single-google-hangout.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/google-hangouts.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_inspire.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_fees.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_contact.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_footer.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/contact.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_fonts.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_about.scss",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/sass/_learn.scss",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/css/media-min-width.sublime-snippet",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/brochure-download-success.php",
+		"/C/wamp/www/arabian-emirates-wp/wp-content/themes/arabian-emirates/templates/home.php"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"C:\\Users\\Chris\\Dropbox\\CHRIS_WORK\\PREVIOUS_NEXT\\frontend-challenge-master\\dist",
+			"C:\\Users\\Chris\\Dropbox\\Apps\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates",
+			"C:\\Users\\Chris\\Dropbox\\Apps\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\inc",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"<current file>",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\inc\\fees",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\templates",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\templates",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\templates",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"<current file>",
+			"C:\\wamp\\www\\arabian-emirates-wp\\wp-content\\themes\\arabian-emirates\\sass",
+			"C:\\wamp\\www\\angc-nov\\wp-content\\themes\\angc-parramatta",
+			"C:\\wamp\\www\\angc-nov\\wp-content\\themes\\angc-parramatta\\",
+			"C:\\wamp\\www\\angc-nov\\wp-content\\themes\\angc-parramatta",
+			"C:\\wamp\\www\\angc-nov\\wp-content\\themes\\angc-parramatta\\css\\custom",
+			"C:\\wamp\\www\\caribbean\\wp-content\\themes",
+			"C:\\wamp\\www\\cityofparramatta\\wp-content\\themes\\angc-parramatta",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"htmk",
+			"primary-",
+			"button",
+			"&__",
+			"images",
+			"&_",
+			".men",
+			"kss-assets/",
+			";\n",
+			"button",
+			"kss-style",
+			"content",
+			"menu",
+			"twig",
+			"modal",
+			"grav",
+			"speak",
+			"speakers",
+			"regis",
+			"button",
+			"speakers",
+			"profile",
+			"menu",
+			"tab",
+			"acf",
+			"$loop2 ",
+			"args2",
+			"args3",
+			"enrolmentWrap",
+			"grav-payments",
+			"AED",
+			"£",
+			".grav-form-wrap.enrol-section",
+			".btn",
+			".rel-wrap",
+			"backB",
+			"blank",
+			"ul.sub-menu",
+			"compari",
+			"\\",
+			" ",
+			"super",
+			"hide-info",
+			"gf_ga_tracking",
+			"$",
+			"font-s",
+			"50",
+			"500",
+			"background",
+			"#affwp-affiliate-dashboard",
+			">",
+			"767",
+			"affwp-affiliate-dashboard",
+			".conten",
+			"affwp-lost-password",
+			"40px",
+			".",
+			"fieldset",
+			"legend",
+			"table",
+			"49px",
+			"49",
+			"select2-choice",
+			"dbdbdb",
+			"form_embed",
+			"h4",
+			"h1",
+			"h4",
+			"translateX(10px)",
+			".3)",
+			"scale(1.3)",
+			".1",
+			"1",
+			" rotate(5deg)",
+			", ",
+			"rotate",
+			"scale(1.1)",
+			"2",
+			".industry-news",
+			" .icon-facebook a {",
+			".icon-instagram a",
+			".icon-twitter a ",
+			".icon-facebook a",
+			".icon-youtube a",
+			"\tbackground-repeat: no-repeat;",
+			" {",
+			"png/",
+			"class=\"",
+			"-ico",
+			"<span class=\"icon-line-cross\">",
+			"<span></span>",
+			"instagram",
+			"#ECEBE4",
+			"tweet-date",
+			"close",
+			"css",
+			"inclde",
+			"font-family: 'Raleway', sans-serif;",
+			"#EAE8DA",
+			"css",
+			"jquer",
+			"SEMICOLON.slider.sliderParallax",
+			"SEMICOLON",
+			"parra",
+			"functions",
+			"isot",
+			"boots",
+			"-js-display: flex",
+			"'",
+			"-js-display: flex",
+			"@include display-flex();",
+			"validate",
+			"valida",
+			"addre",
+			"18px",
+			"gfor",
+			"course-title",
+			"<div class=\"form-elem\"><div class=\"rel-wrap\">",
+			"</div>\n  </div>",
+			"<div class=\"form-elem\">",
+			"14px",
+			".form-elem",
+			" .form-elem",
+			"img",
+			"test",
+			"img",
+			"<img src=\" <?php echo $image['sizes']['medium']; ?>\" alt=\"<?php the_sub_field('name'); ?>\">",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&times;",
+			"@include display-flex();\n-js-display: flex",
+			"<div class=\"rel-wrap\"><div class=\"form-elem\">",
+			"</div>\n  </div>  </div>",
+			"<div class=\"form-elem\"><div class=\"rel-wrap\">",
+			"$light-beige",
+			"enrol",
+			"border-radius:3px;",
+			"text-decoration:none;",
+			"",
+			"display:inline-block;",
+			"10439",
+			"10404",
+			"<?php bloginfo('template_directory'); ?>/assets/landing-page-assets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/components/layout/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 212.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/layout/_grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								1
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/modules/pages/_home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/base/_normalize.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								476
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dist/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4138,
+								4144
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1594,
+								1594
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "dist/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/components/modules/widget/widget.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/components/init/_colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								771,
+								771
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/components/base/text/_text.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2452,
+								2452
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/components/layout/skeleton.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "dist/kss-assets/kss.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Chris/Desktop/XDIG/frontend-challenge-master/src/components/component-library/_demo.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								871
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "front-end-challenge.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"functions",
+				"wp-content\\themes\\arabian-emirates\\js\\functions.js"
+			],
+			[
+				"functions.js",
+				"wp-content\\themes\\arabian-emirates\\js\\functions.js"
+			],
+			[
+				"fees.php",
+				"wp-content\\themes\\arabian-emirates\\templates\\fees.php"
+			],
+			[
+				"_wooco",
+				"wp-content\\themes\\arabian-emirates\\sass\\_woocommerce.scss"
+			],
+			[
+				"config",
+				"wp-content\\themes\\arabian-emirates\\config.rb"
+			],
+			[
+				"config.rb",
+				"wp-content\\themes\\arabian-emirates\\config.rb"
+			],
+			[
+				"func",
+				"wp-content\\themes\\arabian-emirates\\functions.php"
+			],
+			[
+				"header",
+				"wp-content\\themes\\arabian-emirates\\header.php"
+			],
+			[
+				"funcions",
+				"wp-content\\themes\\arabian-emirates\\functions.php"
+			],
+			[
+				"_m",
+				"wp-content\\themes\\arabian-emirates\\sass\\_modules.scss"
+			],
+			[
+				"fnctions",
+				"wp-content\\themes\\arabian-emirates\\functions.php"
+			],
+			[
+				"functions.php",
+				"wp-content\\themes\\arabian-emirates\\functions.php"
+			],
+			[
+				"functons.js",
+				"wp-content\\themes\\arabian-emirates\\js\\functions.js"
+			],
+			[
+				"_header",
+				"wp-content\\themes\\arabian-emirates\\sass\\_header.scss"
+			],
+			[
+				"about.php",
+				"wp-content\\themes\\arabian-emirates\\templates\\about.php"
+			],
+			[
+				"_ab",
+				"wp-content\\themes\\arabian-emirates\\sass\\_about.scss"
+			],
+			[
+				"_glo",
+				"wp-content\\themes\\arabian-emirates\\sass\\_globals.scss"
+			],
+			[
+				"forms.sc",
+				"wp-content\\themes\\arabian-emirates\\sass\\_forms.scss"
+			],
+			[
+				"inspire",
+				"wp-content\\themes\\arabian-emirates\\templates\\inspire.php"
+			],
+			[
+				"fees",
+				"wp-content\\themes\\arabian-emirates\\templates\\fees.php"
+			],
+			[
+				"_mod",
+				"wp-content\\themes\\arabian-emirates\\sass\\_modules.scss"
+			],
+			[
+				"_gl",
+				"wp-content\\themes\\arabian-emirates\\sass\\_globals.scss"
+			],
+			[
+				"_globa",
+				"wp-content\\themes\\arabian-emirates\\sass\\_globals.scss"
+			],
+			[
+				"home",
+				"wp-content\\themes\\arabian-emirates\\templates\\home.php"
+			],
+			[
+				"head",
+				"wp-includes\\theme-compat\\header.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"lear",
+				"templates\\learn.php"
+			],
+			[
+				"globa",
+				"sass\\_globals.scss"
+			],
+			[
+				"cours",
+				"templates\\course-single.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"_menu",
+				"sass\\_menu.scss"
+			],
+			[
+				"course-s",
+				"templates\\course-single.php"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"about",
+				"templates\\about.php"
+			],
+			[
+				"_ac",
+				"sass\\_academy-tv.scss"
+			],
+			[
+				"functio",
+				"functions.php"
+			],
+			[
+				"heder",
+				"header.php"
+			],
+			[
+				"sftp",
+				"css\\sftp-config.json"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"full",
+				"wp-content\\themes\\arabian-emirates\\templates\\full-width.php"
+			],
+			[
+				"fonts",
+				"wp-content\\themes\\arabian-emirates\\sass\\_fonts.scss"
+			],
+			[
+				"home.",
+				"wp-content\\themes\\angc-parramatta\\home.php"
+			],
+			[
+				"loop",
+				"wp-content\\themes\\angc-parramatta\\loop.php"
+			],
+			[
+				"wp-con",
+				"wp-config.php"
+			],
+			[
+				"_cust",
+				"wp-content\\themes\\caribbean\\assets\\css\\_customise.scss"
+			],
+			[
+				"_cus",
+				"wp-content\\themes\\caribbean\\assets\\css\\_customise.scss"
+			],
+			[
+				"cous",
+				"wp-content\\themes\\caribbean\\templates\\courses-single.php"
+			],
+			[
+				"_yuc",
+				"wp-content\\themes\\caribbean\\assets\\css\\_yuck.scss"
+			],
+			[
+				"front",
+				"wp-content\\themes\\prosolutions\\front-page.php"
+			],
+			[
+				"leaf",
+				"wp-content\\themes\\prosolutions\\leaf.php"
+			],
+			[
+				"fucntions",
+				"wp-content\\themes\\prosolutions\\functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 398.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
